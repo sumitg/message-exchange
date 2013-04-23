@@ -26,6 +26,10 @@ This assumes you have followed the vert.x installation instructions and put vert
 
 Bring up a browser and go to <http://localhost:8080/>
 
+##Other Info
+
+The project uses Backbone and Bootstrap for the UI.
+
 ##TODO List
 
 * Add HTTP and other transports
